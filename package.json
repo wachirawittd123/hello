@@ -1,0 +1,24 @@
+{
+  "name": "hello_world", 
+  "version": "1.0.1", 
+  "description": "helloworld to publish a node package to npmjs.com", 
+  "main": "src/helloworld.js", 
+  "scripts": { 
+  },
+  "repository": { 
+    "type": "git",
+    "url": "git@github.com:wachirawittd123/hello_world.git"
+  },
+  "keywords": [
+    "npm",
+    "Hello Wold"
+  ],
+  "author": "BeforeSecond",
+  "license": "MIT", 
+  "bugs": { 
+    "url": "https://github.com/wachirawittd123/hello_world/issues"
+  },
+  "homepage": "https://github.com/wachirawittd123/hello_world", 
+  "devDependencies": { 
+  }
+} 
